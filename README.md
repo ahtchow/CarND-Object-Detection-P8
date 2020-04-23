@@ -2,7 +2,7 @@
 
 ![](assets/clip.gif)
 
-Check out my resulting clip of this project: [Youtube Video] (https://www.youtube.com/watch?v=k9lwGgiJ6ms&feature=youtu.be)
+Check out my resulting clip of this project: [Youtube Video](https://youtu.be/k9lwGgiJ6ms)
 
 Goals:
 
