@@ -1,8 +1,10 @@
-# CarND Object Detection Lab
+# CarND Object Detection
 
 ![](assets/clip.gif)
 
-In lab this you will:
+Check out my resulting clip of this project: [Youtube Video] (https://www.youtube.com/watch?v=k9lwGgiJ6ms&feature=youtu.be)
+
+Goals:
 
 * Learn about *MobileNets* and separable depthwise convolutions.
 * The SSD (Single Shot Detection) architecture used for object detection
@@ -10,7 +12,7 @@ In lab this you will:
 * Use different architectures and weigh the tradeoffs.
 * Apply an object detection pipeline to a video.
 
-Open the notebook and work through it!
+Open the notebook and work browse through it!
 
 ### Requirements
 
